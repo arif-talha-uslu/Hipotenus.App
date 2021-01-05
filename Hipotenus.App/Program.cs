@@ -23,7 +23,7 @@ namespace Hipo.Tenüs
             int kartop = (int)(kenkar1 + kenkar2);
             double h;
             h = kartop;
-            Console.WriteLine("SONUÇ:");
+            Console.WriteLine("SONUÇ asd:");
             Console.WriteLine(Math.Sqrt(kartop));
             Console.ReadKey();
         }
